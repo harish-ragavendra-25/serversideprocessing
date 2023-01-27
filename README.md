@@ -96,7 +96,7 @@ Publish the website in the given URL http://harishragavendra.student.saveetha.in
 
 
 ### Home Page:
-![!output](serverside/calculatevolume.png)
+![!output](calculatevolume.png)
 
 ## Result:
 thus the experiment executed sucessfully
